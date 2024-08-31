@@ -9,4 +9,4 @@ sudo apt install tmux
 ```
 
 - Install [tpm](https://github.com/tmux-plugins/tpm?tab=readme-ov-file#installation)
-- Clone this repo inside `~/.config/`
+- Clone this repo inside `~/.config/tmux`
